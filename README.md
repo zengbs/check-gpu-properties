@@ -1,6 +1,6 @@
 # check-gpu-properties
 
-
+```
 ==================================== NVIDIA A10 ====================================
   CUDA Driver Version / Runtime Version          11.4 / 11.4
   CUDA Capability Major/Minor version number:    8.6
@@ -23,4 +23,4 @@
   Number of multiprocessor:                      72
   Number of CUDA cores per device:               9216
   Number of CUDA cores per multiprocessor:       128
-
+```
